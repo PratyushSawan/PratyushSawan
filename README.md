@@ -13,7 +13,7 @@ I create blog posts and open source Code mainly about Web-Development and Compte
  ---
 
  <p align='center'>
-<a href="https://dev.to/pratyushsawan"><img height="30" src="https://raw.github.com/PratyushSawan/PratyushSawan/master/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/pratyushsawan" target="_blank"><img height="30" src="https://raw.github.com/PratyushSawan/PratyushSawan/master/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter/pratyushsawan"><img height="30" src="https://github.com/PratyushSawan/PratyushSawan/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram/r_pratyush"><img height="30" src="https://github.com/PratyushSawan/PratyushSawan/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/pratyushsawan"><img height="30" src="https://github.com/PratyushSawan/PratyushSawan/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
