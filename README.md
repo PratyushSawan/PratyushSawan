@@ -1,5 +1,6 @@
 <!-- # [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/master/icon/gh-bannner.png)](https://waylonwalker.com) -->
 
+
 <p>
 <img align='right' height="200" style="border-radius=50%" src="https://raw.githubusercontent.com/PratyushSawan/PratyushSawan/master/icon/profile.jpg">
  <p/>
@@ -32,17 +33,13 @@ I write regular blog posts, most of which you will find on my personal website [
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
-[Latest Post 👉](https://waylonwalker.com/latest)
+<br>
 
-<details>
- <summary><strong>other favorite posts</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
- 
-</details>
-💌 follow my Blogs on [dev.to](https://dev.to/pratyushsawan)
-
+💌 follow my Blogs on  <a href="https://dev.to/pratyushsawan"><img height="30" src="https://raw.github.com/PratyushSawan/PratyushSawan/master/icon/dev.png">
+<br>
+<br>
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=pratyushsawan.visitor-badge">
  <p/>
+
+ <br>
