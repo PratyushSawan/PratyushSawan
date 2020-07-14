@@ -26,7 +26,9 @@ I create blog posts and open source Code mainly about Web-Development and Compte
 <!-- <p>
   <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p> -->
-
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="icon/undraw_mello_otq1.png"></a>
+</p>
 ### My Digital Garden 🌱
 
 I write regular blog posts, most of which you will find on my personal website [pratyushsawan.tech](https://pratyushsawan.tech) and [dev.to/pratyushsawan](https://dev.to/pratyushsawan).
