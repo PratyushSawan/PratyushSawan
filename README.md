@@ -27,7 +27,7 @@ I create blog posts and open source Code mainly about Web-Development and Compte
   <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p> -->
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="icon/undraw_mello_otq1.png"></a>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://raw.github.com/PratyushSawan/PratyushSawan/master/icon/undraw_mello_otq1.png"></a>
 </p>
 ### My Digital Garden 🌱
 
