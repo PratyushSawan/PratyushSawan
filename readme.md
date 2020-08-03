@@ -62,9 +62,7 @@
 
 [![Pratyush's Github Stats](https://github-readme-stats.vercel.app/api?username=pratyushsawan)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushsawan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://pratyushsawan.tech
 [twitter]: https://twitter.com/pratyushsawan
