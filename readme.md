@@ -54,6 +54,10 @@
 <br />
 <br />
 
+### Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://pratyushsawan.tech
 [twitter]: https://twitter.com/pratyushsawan
 [instagram]: https://instagram.com/r_pratyush
