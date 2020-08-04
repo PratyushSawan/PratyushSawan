@@ -1,9 +1,7 @@
 ### Hi there, I'm Pratyush - aka [PratyushSawan][website] 👋
 
-<center>
-<img alt="pratyushsawan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratyushsawan&layout=compact" />
-</center>
-
+<img align="right" alt="pratyushsawan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratyushsawan&layout=compact" />
+  
 ## I'm a Student,Developer and Blogger!
 - 🔭 I’m currently working on a newProject!
 - 🌱 I’m currently learning everything 🤣
