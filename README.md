@@ -1,5 +1,9 @@
 ### Hi there, I'm Pratyush - aka [PratyushSawan][website] 👋
 
+<center>
+<img alt="pratyushsawan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratyushsawan&layout=compact" />
+</center>
+
 ## I'm a Student,Developer and Blogger!
 - 🔭 I’m currently working on a newProject!
 - 🌱 I’m currently learning everything 🤣
@@ -7,6 +11,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to be Sporty and play flute(sometimes)
 
+<img align="right" alt="pratyushsawan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushsawan&show_icons=true&hide_border=true" />
 
 ### Connect with me:
 
@@ -60,9 +65,7 @@
 
 ---
 
-[![Pratyush's Github Stats](https://github-readme-stats.vercel.app/api?username=pratyushsawan)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushsawan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://pratyushsawan.tech
 [twitter]: https://twitter.com/pratyushsawan
