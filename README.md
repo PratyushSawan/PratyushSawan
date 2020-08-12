@@ -60,7 +60,11 @@
 ### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+<<<<<<< HEAD
 
+=======
+- [Best Visual Studio Code Extensions.](https://dev.to/pratyushsawan/best-visual-studio-code-extensions-58ef)
+>>>>>>> 81e3848afaa5ba915eeb923248ca527fee6120d2
 - [How To Write a Good JavaScript Code](https://dev.to/pratyushsawan/how-to-write-a-good-javascript-code-10mc)
 - [The 5 Habits of Highly Productive Programmers](https://dev.to/pratyushsawan/the-7-habits-of-highly-productive-programmers-1h41)
 - [What is NODE JS](https://dev.to/pratyushsawan/what-is-node-js-gj6)
