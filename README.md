@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" target="_blank" alt="pratyushsawan.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" target="_blank" alt="pratyushsawan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" target="_blank" alt="pratyushsawan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" target="_blank" alt="r_pratyush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="pratyushsawan.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website target='_blank']
+[<img align="left" alt="twitter/pratyushsawan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin/in/pratyushsawan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  alt="r_pratyush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -60,11 +60,8 @@
 ### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-<<<<<<< HEAD
 
-=======
 - [Best Visual Studio Code Extensions.](https://dev.to/pratyushsawan/best-visual-studio-code-extensions-58ef)
->>>>>>> 81e3848afaa5ba915eeb923248ca527fee6120d2
 - [How To Write a Good JavaScript Code](https://dev.to/pratyushsawan/how-to-write-a-good-javascript-code-10mc)
 - [The 5 Habits of Highly Productive Programmers](https://dev.to/pratyushsawan/the-7-habits-of-highly-productive-programmers-1h41)
 - [What is NODE JS](https://dev.to/pratyushsawan/what-is-node-js-gj6)
