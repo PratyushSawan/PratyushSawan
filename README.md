@@ -57,14 +57,9 @@
 <br />
 <br />
 
-### Latest Blog posts
+### [Latest Blog posts](https://blog.pratyushsawan.tech)
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Best Visual Studio Code Extensions.](https://dev.to/pratyushsawan/best-visual-studio-code-extensions-58ef)
-- [How To Write a Good JavaScript Code](https://dev.to/pratyushsawan/how-to-write-a-good-javascript-code-10mc)
-- [The 5 Habits of Highly Productive Programmers](https://dev.to/pratyushsawan/the-7-habits-of-highly-productive-programmers-1h41)
-- [What is NODE JS](https://dev.to/pratyushsawan/what-is-node-js-gj6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
