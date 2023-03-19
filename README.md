@@ -2,18 +2,18 @@
 
 <img align="right" alt="pratyushsawan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratyushsawan&layout=compact" />
   
-## I'm a Student,Developer and Blogger!
-- 🔭 I’m currently working on a newProject!
-- 🌱 I’m currently learning everything 🤣
+## I'm a MERN Stack and Web3 Software Develoepr!
+- 🔭 I’m currently working on a Project with GCL and QBO!
+- 🌱 I’m currently learning WEB 3.0 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Web3.0 World and Open Source
 - ⚡ Fun fact: I love to be Sporty and play flute(sometimes)
 
 <img align="right" alt="pratyushsawan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushsawan&show_icons=true&hide_border=true" />
 
 ### Connect with me:
 
-[<img align="left" alt="pratyushsawan.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="pratyushsawan.co.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="twitter/pratyushsawan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin/in/pratyushsawan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left"  alt="r_pratyush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
